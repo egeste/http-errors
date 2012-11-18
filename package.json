@@ -1,0 +1,18 @@
+{
+  "name": "http-errors",
+  "description": "A node module that returns a hash of Error classes representing HTTP errors indexed by error code.",
+  "url": "https://github.com/egeste/http-errors",
+  "keywords": ["util", "errors", "http"],
+  "author": {
+    "name": "Steve (Egesté) Regester",
+    "email": "npm@egeste.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/egeste/http-errors.git"
+  },
+  "main": "http-errors.js",
+  "version": "0.0.1",
+  "engines": { "node": "*" },
+  "_engineSupported": true
+}
